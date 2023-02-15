@@ -7,15 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="easy" />
+        <module name="common" />
         <module name="medium" />
         <module name="hard" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="easy" target="1.7" />
-      <module name="hard" target="1.7" />
-      <module name="learn-algorithm" target="1.5" />
-      <module name="medium" target="1.7" />
+      <module name="common" target="1.8" />
+      <module name="easy" target="1.8" />
+      <module name="hard" target="1.8" />
+      <module name="learn-algorithm" target="1.8" />
+      <module name="medium" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
