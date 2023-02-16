@@ -16,6 +16,9 @@ public class M19RemoveNthNodeFromEndOfList {
 
         // 删除倒数第 n 个，要先找倒数第 n + 1 个节点
         ListNode x = findFromEnd(dummy, n + 1);
+        if (x == null) {
+            return null;
+        }
         // 删掉倒数第 n 个节点
         x.next = x.next.next;
         return dummy.next;

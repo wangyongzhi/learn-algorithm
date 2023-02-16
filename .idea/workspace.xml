@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71663fa0-a3ae-4a88-8fec-3b62ccd07095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hard/src/main/java/radishdata/top/H23MergeKSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M19RemoveNthNodeFromEndOfList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M86PartitionList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E141LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E876MiddleOfTheLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M142LinkedListCycleIi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E21MergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E21MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard/hard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hard/hard.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hard/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/medium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/medium/medium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/medium/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/radishdata/top/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/radishdata/top/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M19RemoveNthNodeFromEndOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M19RemoveNthNodeFromEndOfList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/easy/target/" />
@@ -29,11 +25,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M19RemoveNthNodeFromEndOfList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+            <state relative-caret-position="170">
+              <caret line="55" column="55" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E876MiddleOfTheLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="12" column="42" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E141LinkedListCycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="44" column="5" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M142LinkedListCycleIi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="447" column="8" selection-start-line="447" selection-start-column="8" selection-end-line="447" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="135" column="14" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E21MergeTwoSortedLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/radishdata/top/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#2352#2353#0" expanded="true" />
+                <element signature="e#2373#2374#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,10 +131,16 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E21MergeTwoLists.java" />
         <option value="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E21MergeTwoSortedLists.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/radishdata/top/ListNode.java" />
         <option value="$PROJECT_DIR$/hard/src/main/java/radishdata/top/H23MergeKSortedLists.java" />
         <option value="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M86PartitionList.java" />
         <option value="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M19RemoveNthNodeFromEndOfList.java" />
+        <option value="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E876MiddleOfTheLinkedList.java" />
+        <option value="$PROJECT_DIR$/easy/src/main/java/radishdata/easy/E141LinkedListCycle.java" />
+        <option value="$PROJECT_DIR$/easy/src/main/java/radishdata/top/easy/E141LinkedListCycle.java" />
+        <option value="$PROJECT_DIR$/easy/src/main/java/radishdata/top/easy/E21MergeTwoSortedLists.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/radishdata/top/ListNode.java" />
+        <option value="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E141LinkedListCycle.java" />
+        <option value="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M142LinkedListCycleIi.java" />
       </list>
     </option>
   </component>
@@ -112,6 +183,41 @@
             <path>
               <item name="learn-algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn-algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learn-algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -227,9 +333,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.M19RemoveNthNodeFromEndOfList">
-    <configuration name="E21MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="radishdata.top.E21MergeTwoSortedLists" />
+  <component name="RunManager" selected="Application.M142LinkedListCycleIi">
+    <configuration name="E141LinkedListCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="radishdata.top.E141LinkedListCycle" />
+      <module name="easy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="radishdata.top.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E876MiddleOfTheLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="radishdata.top.E876MiddleOfTheLinkedList" />
       <module name="easy" />
       <extension name="coverage">
         <pattern>
@@ -254,6 +373,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="M142LinkedListCycleIi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="radishdata.top.M142LinkedListCycleIi" />
+      <module name="medium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="radishdata.top.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="M19RemoveNthNodeFromEndOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="radishdata.top.M19RemoveNthNodeFromEndOfList" />
       <module name="medium" />
@@ -267,25 +399,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M86PartitionList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="radishdata.top.M86PartitionList" />
-      <module name="medium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="radishdata.top.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.M142LinkedListCycleIi" />
+        <item itemvalue="Application.E141LinkedListCycle" />
+        <item itemvalue="Application.E876MiddleOfTheLinkedList" />
         <item itemvalue="Application.M19RemoveNthNodeFromEndOfList" />
         <item itemvalue="Application.H23MergeKSortedLists" />
-        <item itemvalue="Application.M86PartitionList" />
-        <item itemvalue="Application.E21MergeTwoSortedLists" />
       </list>
     </recent_temporary>
   </component>
@@ -300,12 +420,12 @@
       <option name="presentableId" value="Default" />
       <updated>1676446841344</updated>
       <workItem from="1676446843237" duration="3087000" />
-      <workItem from="1676465459826" duration="11670000" />
+      <workItem from="1676465459826" duration="16781000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14757000" />
+    <option name="totallyTimeSpent" value="19868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="23" width="1232" height="777" extended-state="0" />
@@ -321,8 +441,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.33987916" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49915966" visible="true" weight="0.32930514" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.16012084" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49915966" visible="true" weight="0.35951662" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6918429" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -355,6 +475,12 @@
           <line>40</line>
           <properties />
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E141LinkedListCycle.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -525,24 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/radishdata/top/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E21MergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hard/src/main/java/radishdata/top/H23MergeKSortedLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-576">
@@ -559,8 +667,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M19RemoveNthNodeFromEndOfList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        <state relative-caret-position="170">
+          <caret line="55" column="55" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E21MergeTwoSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E876MiddleOfTheLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E141LinkedListCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="447" column="8" selection-start-line="447" selection-start-column="8" selection-end-line="447" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="135" column="14" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/radishdata/top/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#2352#2353#0" expanded="true" />
+            <element signature="e#2373#2374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M142LinkedListCycleIi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
         </state>
       </provider>
     </entry>
