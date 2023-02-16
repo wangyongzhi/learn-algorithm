@@ -2,14 +2,15 @@ package radishdata.top;
 
 
 /**
+ * 合并两个有序链表：https://leetcode.cn/problems/merge-two-sorted-lists/
  * @author wangyongzhi
  * @date 2023-02-15
  */
-public class E21MergeTwoLists {
+public class E21MergeTwoSortedLists {
 
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
 
-        // 虚拟头结点
+        // 搞个虚拟头结点，用来组成一个新的链表。
         ListNode dummy = new ListNode(-1), p = dummy;
         ListNode p1 = list1, p2 = list2;
 
@@ -27,6 +28,7 @@ public class E21MergeTwoLists {
             p = p.next;
         }
 
+        //可能有一个链表提前结束，把另一个的拼接上。
         if (p1 != null) {
             p.next = p1;
         }
@@ -35,6 +37,7 @@ public class E21MergeTwoLists {
             p.next = p2;
         }
 
+        //把虚拟头结点去掉，去next
         return dummy.next;
 
     }
@@ -43,8 +46,8 @@ public class E21MergeTwoLists {
     public static void main(String[] args) {
         ListNode listNode1 = ListNode.build(1, 2, 4);
         ListNode listNode2 = ListNode.build(1, 3, 4);
-        E21MergeTwoLists twoLists = new E21MergeTwoLists();
-        ListNode listNode = twoLists.mergeTwoLists(listNode1, listNode2);
+        E21MergeTwoSortedLists list = new E21MergeTwoSortedLists();
+        ListNode listNode = list.mergeTwoLists(listNode1, listNode2);
 
         ListNode.print(listNode);
 

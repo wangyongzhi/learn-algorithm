@@ -12,5 +12,11 @@
     <artifactId>hard</artifactId>
 
     <name>hard</name>
+    <dependencies>
+        <dependency>
+            <groupId>radishdata.top</groupId>
+            <artifactId>common</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>

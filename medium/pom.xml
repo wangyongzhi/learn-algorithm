@@ -12,5 +12,11 @@
     <artifactId>medium</artifactId>
 
     <name>medium</name>
+    <dependencies>
+        <dependency>
+            <groupId>radishdata.top</groupId>
+            <artifactId>common</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>
