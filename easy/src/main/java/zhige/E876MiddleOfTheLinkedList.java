@@ -1,4 +1,4 @@
-package radishdata.top;
+package zhige;
 
 /**
  * 876. 链表的中间结点

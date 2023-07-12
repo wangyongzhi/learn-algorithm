@@ -1,4 +1,4 @@
-package radishdata.top;
+package zhige;
 
 /**
  * 83. 删除排序链表中的重复元素

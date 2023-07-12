@@ -1,4 +1,4 @@
-package radishdata.top;
+package zhige;
 
 /**
  * 27. 移除元素

@@ -231,4 +231,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
 </project>

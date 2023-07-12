@@ -1,17 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="71663fa0-a3ae-4a88-8fec-3b62ccd07095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E1TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M15_3Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E233ImplementQueueUsingStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M155MinStack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M155MinStack2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M18_4Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M1_nSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/radishdata/top/ArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/zhige/ArrayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/radishdata/top/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/zhige/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E141LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E141LinkedListCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E160IntersectionOfTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E160IntersectionOfTwoLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E1TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E1TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E206ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E206ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E21MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E21MergeTwoSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E26RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E26RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E27RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E27RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E283MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E283MoveZeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E344ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E344ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E83RemoveDuplicatesFromSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E83RemoveDuplicatesFromSortedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E876MiddleOfTheLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E876MiddleOfTheLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hard/src/main/java/radishdata/top/H23MergeKSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H23MergeKSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M142LinkedListCycleIi.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M142LinkedListCycleIi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M15_3Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M15_3Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M167TwoSumIiInputArrayIsSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M167TwoSumIiInputArrayIsSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M19RemoveNthNodeFromEndOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M19RemoveNthNodeFromEndOfList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M5LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M5LongestPalindromicSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M86PartitionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M86PartitionList.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/easy/target/" />
-    <ignored path="$PROJECT_DIR$/medium/target/" />
-    <ignored path="$PROJECT_DIR$/hard/target/" />
-    <ignored path="$PROJECT_DIR$/common/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,114 +42,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M167TwoSumIiInputArrayIsSorted.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E21MergeTwoSortedLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E344ReverseString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M5LongestPalindromicSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E1TwoSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="45" column="30" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="45" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M15_3Sum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
-              <folding>
-                <element signature="e#6283#6284#0" expanded="true" />
-                <element signature="e#6351#6352#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
-              <folding>
-                <element signature="e#5027#5028#0" expanded="true" />
-                <element signature="e#5098#5099#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/src/main/java/radishdata/top/ArrayUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -138,6 +53,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>&quot;</find>
+      <find>BeanFactory</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
@@ -184,13 +100,17 @@
         <option value="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M5LongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E1TwoSum.java" />
         <option value="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M15_3Sum.java" />
+        <option value="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M18_4Sum.java" />
+        <option value="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M1_nSum.java" />
       </list>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -211,6 +131,7 @@
     <option name="width" value="1232" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectId" id="2NXCe0Z9EKOCKOKy7yeVZPR8YB4" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -219,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -292,6 +214,15 @@
               <item name="learn-algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -345,42 +276,41 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/wangyongzhi/2016/workspace/github/learn-algorithm/medium/src/main/java/zhige",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/medium/src/main/java/zhige" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zhige" />
+      <recent name="radishdata.top" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.M15_3Sum">
-    <configuration name="E1TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="radishdata.top.E1TwoSum" />
+  <component name="RunManager" selected="Application.E232ImplementQueueUsingStacks">
+    <configuration name="E155MinStack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.E155MinStack1" />
       <module name="easy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="radishdata.top.*" />
+          <option name="PATTERN" value="zhige.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E344ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="radishdata.top.E344ReverseString" />
+    <configuration name="E155MinStack2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.E155MinStack2" />
       <module name="easy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="radishdata.top.*" />
+          <option name="PATTERN" value="zhige.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -401,8 +331,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M15_3Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="radishdata.top.M15_3Sum" />
+    <configuration name="E232ImplementQueueUsingStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.E232ImplementQueueUsingStacks" />
+      <module name="easy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zhige.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M18_4Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="radishdata.top.M18_4Sum" />
       <module name="medium" />
       <extension name="coverage">
         <pattern>
@@ -414,21 +357,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M167TwoSumIiInputArrayIsSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="radishdata.top.M167TwoSumIiInputArrayIsSorted" />
-      <module name="medium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="radishdata.top.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M5LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="radishdata.top.M5LongestPalindromicSubstring" />
+    <configuration name="M1_nSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="radishdata.top.M1_nSum" />
       <module name="medium" />
       <extension name="coverage">
         <pattern>
@@ -442,14 +372,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.M15_3Sum" />
-        <item itemvalue="Application.E1TwoSum" />
-        <item itemvalue="Application.M5LongestPalindromicSubstring" />
-        <item itemvalue="Application.M167TwoSumIiInputArrayIsSorted" />
-        <item itemvalue="Application.E344ReverseString" />
+        <item itemvalue="Application.E232ImplementQueueUsingStacks" />
+        <item itemvalue="Application.E155MinStack2" />
+        <item itemvalue="Application.E155MinStack1" />
+        <item itemvalue="Application.M1_nSum" />
+        <item itemvalue="Application.M18_4Sum" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -462,17 +393,55 @@
       <updated>1676446841344</updated>
       <workItem from="1676446843237" duration="3087000" />
       <workItem from="1676465459826" duration="23699000" />
-      <workItem from="1676811544199" duration="9649000" />
+      <workItem from="1676811544199" duration="16317000" />
+      <workItem from="1677757184215" duration="597000" />
+      <workItem from="1679801134752" duration="181000" />
+      <workItem from="1679816321724" duration="28000" />
+      <workItem from="1679843447936" duration="311000" />
+      <workItem from="1688979132443" duration="12742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36435000" />
+    <option name="totallyTimeSpent" value="43700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="23" width="1232" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26050422" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49915966" weight="0.24169184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45015106" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5770393" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50084037" side_tool="true" weight="0.32930514" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.33987916" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32941177" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25630254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
@@ -504,67 +473,68 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M86PartitionList.java</url>
+          <url>file://$PROJECT_DIR$/medium/src/main/java/zhige/M86PartitionList.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E141LinkedListCycle.java</url>
+          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E141LinkedListCycle.java</url>
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M142LinkedListCycleIi.java</url>
+          <url>file://$PROJECT_DIR$/medium/src/main/java/zhige/M142LinkedListCycleIi.java</url>
           <line>52</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E26RemoveDuplicatesFromSortedArray.java</url>
+          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E26RemoveDuplicatesFromSortedArray.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E26RemoveDuplicatesFromSortedArray.java</url>
+          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E26RemoveDuplicatesFromSortedArray.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E27RemoveElement.java</url>
+          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E27RemoveElement.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E283MoveZeroes.java</url>
+          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E283MoveZeroes.java</url>
           <line>42</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/common/src/main/java/radishdata/top/ArrayUtils.java</url>
+          <url>file://$PROJECT_DIR$/common/src/main/java/zhige/ArrayUtils.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M15_3Sum.java</url>
+          <url>file://$PROJECT_DIR$/medium/src/main/java/zhige/M15_3Sum.java</url>
           <line>85</line>
-          <properties />
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E233ImplementQueueUsingStacks.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E233ImplementQueueUsingStacks.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -589,28 +559,28 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/hard/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/hard/src/test/java/radishdata/top/AppTest.java" />
     <entry file="file://$PROJECT_DIR$/easy/src/test/java/radishdata/AppTest.java" />
@@ -640,20 +610,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/App.java" />
     <entry file="file://$PROJECT_DIR$/easy/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/medium/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -827,13 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M5LongestPalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E21MergeTwoSortedLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -841,26 +804,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M167TwoSumIiInputArrayIsSorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="5" selection-start-line="29" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M5LongestPalindromicSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/easy/src/main/java/radishdata/top/E1TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="45" column="30" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="45" selection-end-column="30" />
+        <state relative-caret-position="748">
+          <caret line="45" column="30" selection-start-line="38" selection-start-column="8" selection-end-line="45" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M167TwoSumIiInputArrayIsSorted.java">
+    <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M15_3Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+        <state relative-caret-position="238">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M18_4Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="107" column="8" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+          <folding>
+            <element signature="e#4990#4991#0" expanded="true" />
+            <element signature="e#5047#5048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="1717">
           <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
           <folding>
             <element signature="e#5027#5028#0" expanded="true" />
@@ -871,26 +880,15 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="3638">
           <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M1_nSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medium/src/main/java/radishdata/top/M15_3Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="17">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,4 +1,4 @@
-package radishdata.top;
+package zhige;
 
 /**
  * 分隔链表：https://leetcode.cn/problems/partition-list/
