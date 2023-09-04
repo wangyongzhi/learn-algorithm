@@ -5,35 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71663fa0-a3ae-4a88-8fec-3b62ccd07095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E233ImplementQueueUsingStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M155MinStack1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M155MinStack2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M18_4Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M1_nSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E509FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/QpsCalculator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/QpsCalculator2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/radishdata/top/ArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/zhige/ArrayUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/radishdata/top/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/zhige/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E141LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E141LinkedListCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E160IntersectionOfTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E160IntersectionOfTwoLinkedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E1TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E1TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E206ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E206ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E21MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E21MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E26RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E26RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E27RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E27RemoveElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E283MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E283MoveZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E344ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E344ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E83RemoveDuplicatesFromSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E83RemoveDuplicatesFromSortedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/radishdata/top/E876MiddleOfTheLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E876MiddleOfTheLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard/src/main/java/radishdata/top/H23MergeKSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H23MergeKSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M142LinkedListCycleIi.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M142LinkedListCycleIi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M15_3Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M15_3Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M167TwoSumIiInputArrayIsSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M167TwoSumIiInputArrayIsSorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M19RemoveNthNodeFromEndOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M19RemoveNthNodeFromEndOfList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M5LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M5LongestPalindromicSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/radishdata/top/M86PartitionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M86PartitionList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E206ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E206ReverseLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,19 +258,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/wangyongzhi/2016/workspace/github/learn-algorithm/medium/src/main/java/zhige",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/wangyongzhi/2016/workspace/github/learn-algorithm/medium/src/main/java/zhige&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/medium/src/main/java/zhige" />
@@ -304,22 +280,9 @@
       <recent name="radishdata.top" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E232ImplementQueueUsingStacks">
-    <configuration name="E155MinStack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhige.E155MinStack1" />
-      <module name="easy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zhige.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E155MinStack2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhige.E155MinStack2" />
+  <component name="RunManager" selected="Application.QpsCalculator1">
+    <configuration name="E206ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.E206ReverseLinkedList" />
       <module name="easy" />
       <extension name="coverage">
         <pattern>
@@ -344,12 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M18_4Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="radishdata.top.M18_4Sum" />
+    <configuration name="M155MinStack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.M155MinStack1" />
       <module name="medium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="radishdata.top.*" />
+          <option name="PATTERN" value="zhige.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,12 +320,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M1_nSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="radishdata.top.M1_nSum" />
-      <module name="medium" />
+    <configuration name="QpsCalculator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.QpsCalculator1" />
+      <module name="easy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="radishdata.top.*" />
+          <option name="PATTERN" value="zhige.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QpsCalculator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.QpsCalculator2" />
+      <module name="easy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zhige.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,11 +348,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QpsCalculator1" />
+        <item itemvalue="Application.QpsCalculator2" />
+        <item itemvalue="Application.E206ReverseLinkedList" />
+        <item itemvalue="Application.M155MinStack1" />
         <item itemvalue="Application.E232ImplementQueueUsingStacks" />
-        <item itemvalue="Application.E155MinStack2" />
-        <item itemvalue="Application.E155MinStack1" />
-        <item itemvalue="Application.M1_nSum" />
-        <item itemvalue="Application.M18_4Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +374,10 @@
       <workItem from="1679801134752" duration="181000" />
       <workItem from="1679816321724" duration="28000" />
       <workItem from="1679843447936" duration="311000" />
-      <workItem from="1688979132443" duration="12742000" />
+      <workItem from="1688979132443" duration="17952000" />
+      <workItem from="1690185543287" duration="422000" />
+      <workItem from="1692326486300" duration="465000" />
+      <workItem from="1692327285393" duration="6552000" />
     </task>
     <servers />
   </component>
@@ -527,14 +506,19 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E233ImplementQueueUsingStacks.java</url>
+          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E232ImplementQueueUsingStacks.java</url>
           <line>53</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E233ImplementQueueUsingStacks.java</url>
+          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E232ImplementQueueUsingStacks.java</url>
           <line>41</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E206ReverseLinkedList.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

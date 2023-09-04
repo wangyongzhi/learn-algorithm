@@ -54,17 +54,17 @@ public class E206ReverseLinkedList {
     /**
      * 反转链表的一部分，m节点到n节点
      * @param head
-     * @param m
-     * @param n
+     * @param left
+     * @param right
      * @return
      */
-    public ListNode reverseBetween(ListNode head, int m, int n) {
+    public ListNode reverseBetween(ListNode head, int left, int right) {
         // base case
-        if (m == 1) {
-            return reverseListN(head, n);
+        if (left == 1) {
+            return reverseListN(head, right);
         }
         // 前进到反转的起点触发 base case
-        head.next = reverseBetween(head.next, m - 1, n - 1);
+        head.next = reverseBetween(head.next, left - 1, right - 1);
         return head;
     }
 
@@ -74,7 +74,7 @@ public class E206ReverseLinkedList {
         ListNode.print(listNode1);
 
         E206ReverseLinkedList list = new E206ReverseLinkedList();
-        ListNode result1 = list.reverseList(listNode1);
+        ListNode result1 = list.reverseBetween(listNode1,2,4);
         ListNode.print(result1);
 
         System.out.println("——————————————————————————————————");
