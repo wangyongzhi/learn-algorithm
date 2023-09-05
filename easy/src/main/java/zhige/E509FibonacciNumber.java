@@ -17,7 +17,7 @@ public class E509FibonacciNumber {
     /**
      * 可以用通项公式算出结果第n条的结果。
      * https://leetcode.cn/problems/fibonacci-number/solutions/545049/fei-bo-na-qi-shu-by-leetcode-solution-o4ze/
-     * 
+     *
      * @param n
      * @return
      */
