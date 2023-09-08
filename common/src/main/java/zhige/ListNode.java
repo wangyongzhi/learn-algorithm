@@ -1,6 +1,7 @@
 package zhige;
 
 /**
+ * 单向链表
  * @author wangyongzhi
  * @date 2023-02-15
  */

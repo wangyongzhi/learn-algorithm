@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71663fa0-a3ae-4a88-8fec-3b62ccd07095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E121BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E122BestTimeToBuyAndSellStock2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E309BestTimeToBuyAndSellStockWithCooldown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E714BestTimeToBuyAndSellStockWithTransactionFee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M322CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/zhige/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H123BestTimeToBuyAndSellStock3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H188BestTimeToBuyAndSellStock4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E509FibonacciNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E509FibonacciNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/zhige/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/zhige/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E121BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E121BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E122BestTimeToBuyAndSellStock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M122BestTimeToBuyAndSellStock2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E309BestTimeToBuyAndSellStockWithCooldown.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M309BestTimeToBuyAndSellStockWithCooldown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E714BestTimeToBuyAndSellStockWithTransactionFee.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M714BestTimeToBuyAndSellStockWithTransactionFee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,6 +279,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/medium/src/main/java/zhige" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="zhige" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="zhige" />
       <recent name="radishdata.top" />
@@ -379,7 +384,7 @@
       <workItem from="1688979132443" duration="17952000" />
       <workItem from="1690185543287" duration="422000" />
       <workItem from="1692326486300" duration="465000" />
-      <workItem from="1692327285393" duration="14584000" />
+      <workItem from="1692327285393" duration="18587000" />
     </task>
     <servers />
   </component>

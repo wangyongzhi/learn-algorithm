@@ -15,11 +15,19 @@ package zhige;
  * @author wangyongzhi
  * @date 2023/9/5
  *
- *  @see E121BestTimeToBuyAndSellStock
- *  @see E122BestTimeToBuyAndSellStock2
- *  @see E714BestTimeToBuyAndSellStockWithTransactionFee
+ *
+ * 统一的状态转移方程：
+ * dp[i][k][0] = max(dp[i-1][k][0], dp[i-1][k][1] + prices[i])
+ * dp[i][k][1] = max(dp[i-1][k][1], dp[i-1][k-1][0] - prices[i])
+ *
+ * @see E121BestTimeToBuyAndSellStock
+ * @see M122BestTimeToBuyAndSellStock2
+ * @see M309BestTimeToBuyAndSellStockWithCooldown
+ * @see M714BestTimeToBuyAndSellStockWithTransactionFee
+ * @see H123BestTimeToBuyAndSellStock3
+ * @see H188BestTimeToBuyAndSellStock4
  */
-public class E309BestTimeToBuyAndSellStockWithCooldown {
+public class M309BestTimeToBuyAndSellStockWithCooldown {
 
     /**
      * 今天没有持有：
@@ -32,7 +40,7 @@ public class E309BestTimeToBuyAndSellStockWithCooldown {
      * 如果今天买入并且卖出，则认为没有交易。
      * 可以持续买卖，则k取正无穷，可以理解为k 等于 k-1
      *
-     * 比{@linkplain  E122BestTimeToBuyAndSellStock2} 这种场景加了个条件限制，即冷冻期为 1 天。
+     * 比{@linkplain  M122BestTimeToBuyAndSellStock2} 这种场景加了个条件限制，即冷冻期为 1 天。
      * 则买入的dp 则要从i-2算起
      */
     public int maxProfit(int[] prices) {
@@ -40,17 +48,17 @@ public class E309BestTimeToBuyAndSellStockWithCooldown {
             return 0;
         }
 
-        int length = prices.length;
+        int n = prices.length;
         //记录利润
-        int[][] dp = new int[length][2];
+        int[][] dp = new int[n][2];
 
-        for (int i = 0; i < length; i++) {
+        for (int i = 0; i < n; i++) {
             //由于存在i-2，则需要初始化前两条数据。
             if (i == 0) {
                 //第一天，如果没有买入，则利润为0
-                dp[0][0] = 0;
+                dp[i][0] = 0;
                 //第一天，如果买入了，则利润记为负prices[0]
-                dp[0][1] = -prices[0];
+                dp[i][1] = -prices[i];
                 continue;
             }
             if (i == 1) {
@@ -65,7 +73,7 @@ public class E309BestTimeToBuyAndSellStockWithCooldown {
         }
 
         //最后肯定是没有持有的
-        return dp[length - 1][0];
+        return dp[n - 1][0];
 
 
     }
