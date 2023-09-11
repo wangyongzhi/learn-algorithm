@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71663fa0-a3ae-4a88-8fec-3b62ccd07095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M146LruCache1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M146LruCache2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M61RotateList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/zhige/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/zhige/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E141LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E141LinkedListCycle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E160IntersectionOfTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E160IntersectionOfTwoLinkedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E21MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E21MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E876MiddleOfTheLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E876MiddleOfTheLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard/src/main/java/zhige/H23MergeKSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H23MergeKSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M142LinkedListCycleIi.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M142LinkedListCycle2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M19RemoveNthNodeFromEndOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M19RemoveNthNodeFromEndOfList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M86PartitionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M86PartitionList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -388,7 +380,7 @@
       <workItem from="1690185543287" duration="422000" />
       <workItem from="1692326486300" duration="465000" />
       <workItem from="1692327285393" duration="26421000" />
-      <workItem from="1694337594579" duration="2729000" />
+      <workItem from="1694337594579" duration="5006000" />
     </task>
     <servers />
   </component>
