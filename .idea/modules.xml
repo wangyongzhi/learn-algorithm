@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/hard/hard.iml" filepath="$PROJECT_DIR$/hard/hard.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learn-algorithm.iml" filepath="$PROJECT_DIR$/.idea/learn-algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/medium/medium.iml" filepath="$PROJECT_DIR$/medium/medium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/other.iml" filepath="$PROJECT_DIR$/other.iml" />
     </modules>
   </component>
 </project>

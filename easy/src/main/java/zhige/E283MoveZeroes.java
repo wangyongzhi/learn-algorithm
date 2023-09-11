@@ -48,8 +48,7 @@ public class E283MoveZeroes {
 
         E283MoveZeroes array = new E283MoveZeroes();
         array.moveZeroes(nums);
-
-        System.out.println("");
+        ArrayUtils.print(nums);
 
     }
 }
