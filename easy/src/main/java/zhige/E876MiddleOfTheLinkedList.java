@@ -8,6 +8,12 @@ package zhige;
  */
 public class E876MiddleOfTheLinkedList {
 
+    /**
+     * 快慢指针，快指针走到末尾的时候，慢指针就是中点。
+     * 如果是偶数个，中点指的靠右的那个。
+     * @param head
+     * @return
+     */
     public ListNode middleNode(ListNode head) {
         // 快慢指针初始化指向 head
         ListNode slow = head, fast = head;

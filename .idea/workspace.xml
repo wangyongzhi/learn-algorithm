@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71663fa0-a3ae-4a88-8fec-3b62ccd07095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/zhige/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H123BestTimeToBuyAndSellStock3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H188BestTimeToBuyAndSellStock4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M146LruCache1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M146LruCache2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/zhige/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/zhige/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E121BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E121BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E122BestTimeToBuyAndSellStock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M122BestTimeToBuyAndSellStock2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E309BestTimeToBuyAndSellStockWithCooldown.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M309BestTimeToBuyAndSellStockWithCooldown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E714BestTimeToBuyAndSellStockWithTransactionFee.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M714BestTimeToBuyAndSellStockWithTransactionFee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/zhige/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/zhige/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E141LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E141LinkedListCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E160IntersectionOfTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E160IntersectionOfTwoLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E21MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E21MergeTwoSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E876MiddleOfTheLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E876MiddleOfTheLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hard/src/main/java/zhige/H23MergeKSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H23MergeKSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M142LinkedListCycleIi.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M142LinkedListCycle2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M19RemoveNthNodeFromEndOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M19RemoveNthNodeFromEndOfList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M86PartitionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M86PartitionList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,9 +290,9 @@
       <recent name="radishdata.top" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QpsCalculator1">
-    <configuration name="E206ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhige.E206ReverseLinkedList" />
+  <component name="RunManager" selected="Application.H23MergeKSortedLists">
+    <configuration name="E21MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.E21MergeTwoSortedLists" />
       <module name="easy" />
       <extension name="coverage">
         <pattern>
@@ -301,9 +304,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E232ImplementQueueUsingStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhige.E232ImplementQueueUsingStacks" />
-      <module name="easy" />
+    <configuration name="H23MergeKSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.H23MergeKSortedLists" />
+      <module name="hard" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="zhige.*" />
@@ -314,8 +317,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M155MinStack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhige.M155MinStack1" />
+    <configuration name="M86PartitionList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.M86PartitionList" />
       <module name="medium" />
       <extension name="coverage">
         <pattern>
@@ -355,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.H23MergeKSortedLists" />
+        <item itemvalue="Application.E21MergeTwoSortedLists" />
+        <item itemvalue="Application.M86PartitionList" />
         <item itemvalue="Application.QpsCalculator1" />
         <item itemvalue="Application.QpsCalculator2" />
-        <item itemvalue="Application.E206ReverseLinkedList" />
-        <item itemvalue="Application.M155MinStack1" />
-        <item itemvalue="Application.E232ImplementQueueUsingStacks" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +387,8 @@
       <workItem from="1688979132443" duration="17952000" />
       <workItem from="1690185543287" duration="422000" />
       <workItem from="1692326486300" duration="465000" />
-      <workItem from="1692327285393" duration="18587000" />
+      <workItem from="1692327285393" duration="26421000" />
+      <workItem from="1694337594579" duration="2729000" />
     </task>
     <servers />
   </component>
@@ -469,17 +473,17 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/medium/src/main/java/zhige/M86PartitionList.java</url>
-          <line>40</line>
+          <line>47</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E141LinkedListCycle.java</url>
-          <line>35</line>
+          <line>45</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/medium/src/main/java/zhige/M142LinkedListCycleIi.java</url>
-          <line>52</line>
+          <url>file://$PROJECT_DIR$/medium/src/main/java/zhige/M142LinkedListCycle2.java</url>
+          <line>61</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -527,8 +531,32 @@
           <line>77</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/medium/src/main/java/zhige/M86PartitionList.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E21MergeTwoSortedLists.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E21MergeTwoSortedLists.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hard/src/main/java/zhige/H23MergeKSortedLists.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">

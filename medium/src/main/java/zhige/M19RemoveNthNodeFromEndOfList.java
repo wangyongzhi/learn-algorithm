@@ -2,7 +2,11 @@ package zhige;
 
 /**
  * 19. 删除链表的倒数第 N 个结点
+ *
+ * 给你一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点
+ *
  * https://leetcode.cn/problems/remove-nth-node-from-end-of-list/
+ *
  * @author wangyongzhi
  * @date 2023-02-16
  */
@@ -52,6 +56,7 @@ public class M19RemoveNthNodeFromEndOfList {
     }
 
 
+
     public static void main(String[] args) {
         ListNode listNode1 = ListNode.build(1,2,3,4,5);
         M19RemoveNthNodeFromEndOfList list = new M19RemoveNthNodeFromEndOfList();
@@ -60,4 +65,7 @@ public class M19RemoveNthNodeFromEndOfList {
         ListNode.print(listNode);
 
     }
+
+
+
 }

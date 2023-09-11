@@ -8,6 +8,8 @@ package zhige;
 public class M86PartitionList {
 
     public ListNode partition(ListNode head, int x) {
+        //相当于把一个链表分成两个，需要创建两个新的临时链表，然后在拼接在一起。
+
         // 存放小于 x 的链表的虚拟头结点
         ListNode dummy1 = new ListNode(-1);
         // 存放大于等于 x 的链表的虚拟头结点
@@ -20,6 +22,7 @@ public class M86PartitionList {
         // 这里是将一个链表分解成两个链表
         ListNode p = head;
 
+        //把小于x的放虚拟链表1，大于x的放虚拟链表2。注意要把每个指向next的去掉。
         while (p != null) {
             if (p.val >= x) {
                 p2.next = p;
@@ -29,6 +32,8 @@ public class M86PartitionList {
                 p1 = p1.next;
             }
 
+            //需要把p的next断掉，不然dummy拼接的是整个链表，而不只是当前节点。
+            //断掉的同时需要把p指向p.next
             ListNode temp = p.next;
             p.next = null;
             p = temp;
@@ -36,11 +41,15 @@ public class M86PartitionList {
         }
 
         // 连接两个链表
+        //把p1的末尾拼接上p2除了虚拟节点的部分
         p1.next = dummy2.next;
 
+        //返回p1除了虚拟节点的整个部分。
         return dummy1.next;
 
     }
+
+
 
     public static void main(String[] args) {
         ListNode listNode1 = ListNode.build(1,4,3,2,5,2);

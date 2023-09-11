@@ -6,6 +6,7 @@ import java.util.*;
  * 23. 合并K个升序链表
  * https://leetcode.cn/problems/merge-k-sorted-lists/
  *
+ * @see E21MergeTwoSortedLists
  * @author wangyongzhi
  * @date 2023-02-16
  */
@@ -47,6 +48,49 @@ public class H23MergeKSortedLists {
     }
 
 
+    /**
+     * 相比mergeKLists
+     * 这个方法，把每次p1或者p2的节点添加到p时，去掉了p1或者p2的后置节点。
+     * @param lists
+     * @return
+     */
+    public ListNode mergeKLists1(ListNode[] lists) {
+
+        if (lists.length == 0) {
+            return null;
+        }
+
+        //需要新链表时，使用一个虚拟节点技巧
+        ListNode dummy = new ListNode(-1);
+        ListNode p = dummy;
+
+        PriorityQueue<ListNode> queue = new PriorityQueue<>(lists.length, Comparator.comparingInt(a -> a.val));
+        for (ListNode head : lists) {
+            if (head != null) {
+                queue.add(head);
+            }
+        }
+
+        while (!queue.isEmpty()) {
+            //由于是小顶堆，拿出来的肯定是头节点最小的那个链表。
+            ListNode head = queue.poll();
+
+            ListNode tmp = head.next;
+            head.next = null;
+            p.next = head;
+
+            if (tmp != null) {
+                queue.add(tmp);
+            }
+
+            p = p.next;
+        }
+
+        return dummy.next;
+
+    }
+
+
     public static void main(String[] args) {
         ListNode listNode1 = ListNode.build(1, 4, 5);
         ListNode listNode2 = ListNode.build(1, 3, 4);
@@ -55,7 +99,7 @@ public class H23MergeKSortedLists {
         ListNode[] listNodes = (ListNode[]) Arrays.asList(listNode1, listNode2, listNode3).toArray();
 
         H23MergeKSortedLists list = new H23MergeKSortedLists();
-        ListNode listNode = list.mergeKLists(listNodes);
+        ListNode listNode = list.mergeKLists1(listNodes);
 
         ListNode.print(listNode);
 
