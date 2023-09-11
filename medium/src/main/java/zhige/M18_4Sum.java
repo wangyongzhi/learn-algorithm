@@ -8,6 +8,13 @@ import java.util.List;
  *
  * 18. 四数之和
  * https://leetcode.cn/problems/4sum/
+ *
+ * @see E1TwoSum
+ * @see M1_nSum
+ * @see M15_3Sum
+ * @see M18_4Sum
+ * @see M167TwoSumIiInputArrayIsSorted
+ *
  * @author wangyongzhi
  * @date 2023-02-19
  */

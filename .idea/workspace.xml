@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71663fa0-a3ae-4a88-8fec-3b62ccd07095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/other/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/easy/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E283MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E283MoveZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/QpsCalculator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/other/src/main/java/zhige/QpsCalculator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/QpsCalculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/other/src/main/java/zhige/QpsCalculator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hard/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/medium/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E1TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E1TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E344ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E344ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M15_3Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M15_3Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M167TwoSumIiInputArrayIsSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M167TwoSumIiInputArrayIsSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M18_4Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M18_4Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M1_nSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M1_nSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M5LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M5LongestPalindromicSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,7 +287,7 @@
       <recent name="radishdata.top" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E283MoveZeroes">
+  <component name="RunManager" selected="Application.E344ReverseString">
     <configuration name="E21MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zhige.E21MergeTwoSortedLists" />
       <module name="easy" />
@@ -308,6 +303,19 @@
     </configuration>
     <configuration name="E283MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zhige.E283MoveZeroes" />
+      <module name="easy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zhige.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E344ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.E344ReverseString" />
       <module name="easy" />
       <extension name="coverage">
         <pattern>
@@ -345,26 +353,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QpsCalculator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhige.QpsCalculator1" />
-      <module name="other" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zhige.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E344ReverseString" />
         <item itemvalue="Application.E283MoveZeroes" />
         <item itemvalue="Application.H23MergeKSortedLists" />
         <item itemvalue="Application.E21MergeTwoSortedLists" />
         <item itemvalue="Application.M86PartitionList" />
-        <item itemvalue="Application.QpsCalculator1" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +385,7 @@
       <workItem from="1690185543287" duration="422000" />
       <workItem from="1692326486300" duration="465000" />
       <workItem from="1692327285393" duration="26421000" />
-      <workItem from="1694337594579" duration="9825000" />
+      <workItem from="1694337594579" duration="15031000" />
     </task>
     <servers />
   </component>
@@ -510,7 +505,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/medium/src/main/java/zhige/M15_3Sum.java</url>
-          <line>85</line>
+          <line>91</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

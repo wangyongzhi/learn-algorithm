@@ -7,6 +7,13 @@ import java.util.List;
 /**
  * @author wangyongzhi
  * @date 2023-02-20
+ *
+ * @see E1TwoSum
+ * @see M1_nSum
+ * @see M15_3Sum
+ * @see M18_4Sum
+ * @see M167TwoSumIiInputArrayIsSorted
+ *
  */
 public class M1_nSum {
 
