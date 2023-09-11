@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71663fa0-a3ae-4a88-8fec-3b62ccd07095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M61RotateList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E160IntersectionOfTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E160IntersectionOfTwoLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E26RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E26RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E27RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E27RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E283MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E283MoveZeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E83RemoveDuplicatesFromSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E83RemoveDuplicatesFromSortedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -380,7 +381,7 @@
       <workItem from="1690185543287" duration="422000" />
       <workItem from="1692326486300" duration="465000" />
       <workItem from="1692327285393" duration="26421000" />
-      <workItem from="1694337594579" duration="5006000" />
+      <workItem from="1694337594579" duration="9246000" />
     </task>
     <servers />
   </component>
@@ -480,22 +481,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E26RemoveDuplicatesFromSortedArray.java</url>
-          <line>36</line>
+          <line>52</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E26RemoveDuplicatesFromSortedArray.java</url>
-          <line>34</line>
+          <line>50</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E27RemoveElement.java</url>
-          <line>32</line>
+          <line>46</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/easy/src/main/java/zhige/E283MoveZeroes.java</url>
-          <line>42</line>
+          <line>50</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
