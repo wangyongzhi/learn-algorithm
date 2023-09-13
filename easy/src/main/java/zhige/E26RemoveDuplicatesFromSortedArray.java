@@ -14,6 +14,8 @@ package zhige;
  *
  * https://leetcode.cn/problems/remove-duplicates-from-sorted-array/
  *
+ * @see E26RemoveDuplicatesFromSortedArray
+ * @see E80RemoveDuplicatesFromSortedArray2
  * @see E27RemoveElement
  *
  * @author wangyongzhi
