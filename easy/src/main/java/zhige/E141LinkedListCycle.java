@@ -12,7 +12,9 @@ package zhige;
  *
  * https://leetcode.cn/problems/linked-list-cycle/
  *
+ * @see E141LinkedListCycle
  * @see M142LinkedListCycle2
+ *
  * @author wangyongzhi
  * @date 2023-02-16
  */

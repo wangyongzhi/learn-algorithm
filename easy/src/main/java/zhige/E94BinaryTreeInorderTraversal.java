@@ -1,6 +1,7 @@
 package zhige;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 /**
@@ -19,6 +20,26 @@ import java.util.List;
  * @date 2023/9/14
  */
 public class E94BinaryTreeInorderTraversal {
+
+
+    /**
+     * 方法二：不用定义另外一个函数解决。
+     */
+    public List<Integer> inorderTraversal2(TreeNode root) {
+
+        List<Integer> res = new ArrayList<>();
+
+        if (root == null) {
+            return Collections.emptyList();
+        }
+
+        res.addAll(inorderTraversal2(root.left));
+        res.add(root.val);
+        res.addAll(inorderTraversal2(root.right));
+
+        return res;
+    }
+
 
     private List<Integer> res = new ArrayList<>();
 
