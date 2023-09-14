@@ -9,6 +9,9 @@ package zhige;
  *
  * https://leetcode.cn/problems/maximum-depth-of-binary-tree/
  *
+ * @see E104MaximumDepthOfBinaryTree
+ * @see E111MinimumDepthOfBinaryTree
+ *
  * @author wangyongzhi
  * @date 2023/9/13
  */

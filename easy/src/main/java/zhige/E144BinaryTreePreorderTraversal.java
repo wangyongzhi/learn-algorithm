@@ -20,23 +20,6 @@ import java.util.List;
  */
 public class E144BinaryTreePreorderTraversal {
 
-    /**
-     * 方法二：不用定义另外一个函数解决。
-     */
-    public List<Integer> preorderTraversal2(TreeNode root) {
-
-        List<Integer> res = new ArrayList<>();
-
-        if (root == null) {
-            return Collections.emptyList();
-        }
-
-        res.add(root.val);
-        res.addAll(preorderTraversal2(root.left));
-        res.addAll(preorderTraversal2(root.right));
-
-        return res;
-    }
 
 
     /**
@@ -60,4 +43,27 @@ public class E144BinaryTreePreorderTraversal {
         traverse(root.right);
 
     }
+
+
+
+
+    /**
+     * 方法二：不用定义另外一个函数解决。
+     * addAll 方法的复杂度都是 O(N)，所以总体的最坏时间复杂度会达到 O(N^2)
+     */
+    public List<Integer> preorderTraversal2(TreeNode root) {
+
+        List<Integer> res = new ArrayList<>();
+
+        if (root == null) {
+            return Collections.emptyList();
+        }
+
+        res.add(root.val);
+        res.addAll(preorderTraversal2(root.left));
+        res.addAll(preorderTraversal2(root.right));
+
+        return res;
+    }
+
 }

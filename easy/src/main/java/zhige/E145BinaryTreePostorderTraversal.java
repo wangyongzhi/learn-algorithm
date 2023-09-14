@@ -21,26 +21,6 @@ import java.util.List;
  */
 public class E145BinaryTreePostorderTraversal {
 
-
-    /**
-     * 方法二：不用定义另外一个函数解决。
-     */
-    public List<Integer> postorderTraversal2(TreeNode root) {
-
-        List<Integer> res = new ArrayList<>();
-
-        if (root == null) {
-            return Collections.emptyList();
-        }
-
-        res.addAll(postorderTraversal2(root.left));
-        res.addAll(postorderTraversal2(root.right));
-        res.add(root.val);
-
-        return res;
-    }
-
-
     private List<Integer> res = new ArrayList<>();
 
     public List<Integer> postorderTraversal(TreeNode root) {
@@ -60,4 +40,26 @@ public class E145BinaryTreePostorderTraversal {
         res.add(root.val);
 
     }
+
+
+
+    /**
+     * 方法二：不用定义另外一个函数解决。
+     * addAll 方法的复杂度都是 O(N)，所以总体的最坏时间复杂度会达到 O(N^2)
+     */
+    public List<Integer> postorderTraversal2(TreeNode root) {
+
+        List<Integer> res = new ArrayList<>();
+
+        if (root == null) {
+            return Collections.emptyList();
+        }
+
+        res.addAll(postorderTraversal2(root.left));
+        res.addAll(postorderTraversal2(root.right));
+        res.add(root.val);
+
+        return res;
+    }
+
 }
