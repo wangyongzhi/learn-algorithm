@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71663fa0-a3ae-4a88-8fec-3b62ccd07095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/zhige/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E104MaximumDepthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E144BinaryTreePreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E80RemoveDuplicatesFromSortedArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/Eoffer06CongWeiDaoTouDaYinLianBiaoIcof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H76MinimumWindowSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M863AllNodesDistanceKInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E145BinaryTreePostorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E94BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M845LongestMountainInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E26RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E26RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E144BinaryTreePreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E144BinaryTreePreorderTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -386,7 +382,7 @@
       <workItem from="1690185543287" duration="422000" />
       <workItem from="1692326486300" duration="465000" />
       <workItem from="1692327285393" duration="26421000" />
-      <workItem from="1694337594579" duration="23071000" />
+      <workItem from="1694337594579" duration="25756000" />
     </task>
     <servers />
   </component>
