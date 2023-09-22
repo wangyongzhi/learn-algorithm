@@ -12,8 +12,9 @@ package zhige;
  *
  * https://leetcode.cn/problems/diameter-of-binary-tree/
  *
- * @see E104MaximumDepthOfBinaryTree
- * @see E543DiameterOfBinaryTree
+ * @see E104MaximumDepthOfBinaryTree 二叉树的最大深度
+ * @see E111MinimumDepthOfBinaryTree 二叉树的最小深度
+ * @see E543DiameterOfBinaryTree 二叉树的直径
  *
  * @author wangyongzhi
  * @date 2023/9/14

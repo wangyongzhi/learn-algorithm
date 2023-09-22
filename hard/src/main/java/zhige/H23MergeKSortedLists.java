@@ -4,6 +4,12 @@ import java.util.*;
 
 /**
  * 23. 合并K个升序链表
+ * 给你一个链表数组，每个链表都已经按升序排列。
+ * 请你将所有链表合并到一个升序链表中，返回合并后的链表。
+ *
+ * 输入：lists = [[1,4,5],[1,3,4],[2,6]]
+ * 输出：[1,1,2,3,4,4,5,6]
+ *
  * https://leetcode.cn/problems/merge-k-sorted-lists/
  *
  * @see E21MergeTwoSortedLists
@@ -13,6 +19,9 @@ import java.util.*;
 public class H23MergeKSortedLists {
 
 
+    /**
+     * 需要使用一个小顶堆，每次把最小的拿出来比较。
+     */
     public ListNode mergeKLists(ListNode[] lists) {
         if (lists.length == 0) {
             return null;

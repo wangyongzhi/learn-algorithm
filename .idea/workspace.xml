@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71663fa0-a3ae-4a88-8fec-3b62ccd07095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E543DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E20ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E704BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E88MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M3LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M46Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M74Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M77Combinations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/zhige/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/zhige/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E104MaximumDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E104MaximumDepthOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M102BinaryTreeLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M102BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E111MinimumDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E111MinimumDepthOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E543DiameterOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E543DiameterOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hard/src/main/java/zhige/H23MergeKSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H23MergeKSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hard/src/main/java/zhige/H76MinimumWindowSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H76MinimumWindowSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,36 +292,10 @@
       <recent name="radishdata.top" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.M102BinaryTreeLevelOrderTraversal">
-    <configuration name="E283MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhige.E283MoveZeroes" />
-      <module name="easy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zhige.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E344ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhige.E344ReverseString" />
-      <module name="easy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zhige.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Eoffer06CongWeiDaoTouDaYinLianBiaoIcof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhige.Eoffer06CongWeiDaoTouDaYinLianBiaoIcof" />
-      <module name="easy" />
+  <component name="RunManager" selected="Application.M74Subsets">
+    <configuration name="H76MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.H76MinimumWindowSubstring" />
+      <module name="hard" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="zhige.*" />
@@ -326,6 +308,32 @@
     </configuration>
     <configuration name="M102BinaryTreeLevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zhige.M102BinaryTreeLevelOrderTraversal" />
+      <module name="medium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zhige.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M74Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.M74Subsets" />
+      <module name="medium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zhige.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M77Combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.M77Combinations" />
       <module name="medium" />
       <extension name="coverage">
         <pattern>
@@ -352,11 +360,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.M74Subsets" />
+        <item itemvalue="Application.M77Combinations" />
+        <item itemvalue="Application.H76MinimumWindowSubstring" />
         <item itemvalue="Application.M102BinaryTreeLevelOrderTraversal" />
         <item itemvalue="Application.TreeNode" />
-        <item itemvalue="Application.Eoffer06CongWeiDaoTouDaYinLianBiaoIcof" />
-        <item itemvalue="Application.E344ReverseString" />
-        <item itemvalue="Application.E283MoveZeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +390,7 @@
       <workItem from="1690185543287" duration="422000" />
       <workItem from="1692326486300" duration="465000" />
       <workItem from="1692327285393" duration="26421000" />
-      <workItem from="1694337594579" duration="33408000" />
+      <workItem from="1694337594579" duration="52547000" />
     </task>
     <servers />
   </component>
@@ -537,13 +545,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/hard/src/main/java/zhige/H23MergeKSortedLists.java</url>
-          <line>103</line>
+          <line>112</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/medium/src/main/java/zhige/M102BinaryTreeLevelOrderTraversal.java</url>
           <line>72</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hard/src/main/java/zhige/H76MinimumWindowSubstring.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/medium/src/main/java/zhige/M74Subsets.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
