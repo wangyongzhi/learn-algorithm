@@ -15,8 +15,12 @@ import java.util.List;
  * https://leetcode.cn/problems/permutations/
  *
  * @see M46Permutations
+ * @see M47Permutations2
  * @see M74Subsets
+ * @see M90Subsets2
  * @see M77Combinations
+ * @see M39CombinationSum
+ * @see M40CombinationSum2
  *
  * @author wangyongzhi
  * @date 2023/9/21

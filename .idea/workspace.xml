@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71663fa0-a3ae-4a88-8fec-3b62ccd07095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E20ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E704BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E88MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M3LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M46Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M74Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M77Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M39CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M40CombinationSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M47Permutations2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M90Subsets2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E104MaximumDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E104MaximumDepthOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E111MinimumDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E111MinimumDepthOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E543DiameterOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E543DiameterOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard/src/main/java/zhige/H23MergeKSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H23MergeKSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard/src/main/java/zhige/H76MinimumWindowSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H76MinimumWindowSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M46Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M46Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M74Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M74Subsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M77Combinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M77Combinations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,20 +261,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/Users/wangyongzhi/2016/workspace/github/learn-algorithm/medium/src/main/java/zhige",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/wangyongzhi/2016/workspace/github/learn-algorithm/medium/src/main/java/zhige&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/medium/src/main/java/zhige" />
@@ -390,7 +385,8 @@
       <workItem from="1690185543287" duration="422000" />
       <workItem from="1692326486300" duration="465000" />
       <workItem from="1692327285393" duration="26421000" />
-      <workItem from="1694337594579" duration="52547000" />
+      <workItem from="1694337594579" duration="53791000" />
+      <workItem from="1695389522901" duration="1554000" />
     </task>
     <servers />
   </component>
@@ -560,7 +556,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/medium/src/main/java/zhige/M74Subsets.java</url>
-          <line>38</line>
+          <line>42</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
