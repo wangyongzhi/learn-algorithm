@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71663fa0-a3ae-4a88-8fec-3b62ccd07095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M39CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M40CombinationSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M47Permutations2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M90Subsets2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M752OpenTheLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M797AllPathsFromSourceToTarget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M46Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M46Permutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M74Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M74Subsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M77Combinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M77Combinations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -386,7 +381,7 @@
       <workItem from="1692326486300" duration="465000" />
       <workItem from="1692327285393" duration="26421000" />
       <workItem from="1694337594579" duration="53791000" />
-      <workItem from="1695389522901" duration="1554000" />
+      <workItem from="1695389522901" duration="4944000" />
     </task>
     <servers />
   </component>
