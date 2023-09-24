@@ -21,7 +21,7 @@ public class E232ImplementQueueUsingStacks {
      * pop栈要一次性加满
      * 如果pop栈不为空，则不能往里面加，因为后面进入的就先取出了。
      */
-    private void pushToTop() {
+    private void pushToPop() {
         if (stackPop.isEmpty()) {
             while (!stackPush.isEmpty()) {
                 stackPop.push(stackPush.pop());
@@ -29,17 +29,26 @@ public class E232ImplementQueueUsingStacks {
         }
     }
 
+    /**
+     * 往队列里面加入数据
+     */
     public void push(int x) {
         stackPush.push(x);
     }
 
+    /**
+     * 移除一个数据
+     */
     public int pop() {
-        pushToTop();
+        pushToPop();
         return stackPop.pop();
     }
 
+    /**
+     * 获取一个数据，不移除。
+     */
     public int peek() {
-        pushToTop();
+        pushToPop();
         return stackPop.peek();
     }
 
