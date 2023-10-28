@@ -14,6 +14,9 @@ import java.util.Queue;
  *
  * https://leetcode.cn/problems/binary-tree-level-order-traversal/
  *
+ * @see M102BinaryTreeLevelOrderTraversal
+ * @see M103BinaryTreeZigzagLevelOrderTraversal
+ *
  * @author wangyongzhi
  * @date 2023/9/14
  */
@@ -27,11 +30,11 @@ public class M102BinaryTreeLevelOrderTraversal {
      * @return
      */
     public List<List<Integer>> levelOrder(TreeNode root) {
-        if (root == null) {
-            return Collections.emptyList();
-        }
+        List<List<Integer>> res = new ArrayList<>();
 
-        List<List<Integer>> result = new ArrayList<>();
+        if (root == null) {
+            return res;
+        }
 
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
@@ -53,10 +56,10 @@ public class M102BinaryTreeLevelOrderTraversal {
                     q.offer(cur.right);
                 }
             }
-            result.add(levelRes);
+            res.add(levelRes);
         }
 
-        return result;
+        return res;
 
     }
 
