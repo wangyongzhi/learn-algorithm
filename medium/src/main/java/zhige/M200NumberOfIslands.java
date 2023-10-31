@@ -18,6 +18,9 @@ package zhige;
  *
  * https://leetcode.cn/problems/number-of-islands/
  *
+ * @see M200NumberOfIslands
+ * @see M695MaxAreaOfIsland
+ *
  * @author wangyongzhi
  * @date 2023/9/23
  */
@@ -59,5 +62,13 @@ public class M200NumberOfIslands {
         dfs(grid, i -1, j);
         dfs(grid, i, j - 1);
         dfs(grid, i, j + 1);
+    }
+
+
+    public static void main(String[] args) {
+        M200NumberOfIslands islands = new M200NumberOfIslands();
+        char[][] grid = {{'1','1','0','0'},{'1','0','0','1'}};
+        int res = islands.numIslands(grid);
+        System.out.println(res);
     }
 }
