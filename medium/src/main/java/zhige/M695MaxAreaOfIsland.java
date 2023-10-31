@@ -9,8 +9,8 @@ package zhige;
  *
  * https://leetcode.cn/problems/max-area-of-island/description/
  *
- * @see M200NumberOfIslands
- * @see M695MaxAreaOfIsland
+ * @see M200NumberOfIslands 岛屿数量
+ * @see M695MaxAreaOfIsland 岛屿的最大面积
  *
  * @author wangyongzhi
  * @date 2023/9/23

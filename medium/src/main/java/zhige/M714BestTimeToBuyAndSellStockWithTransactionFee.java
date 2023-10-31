@@ -15,12 +15,12 @@ package zhige;
  *
  * https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
  *
- * @see E121BestTimeToBuyAndSellStock
- * @see M122BestTimeToBuyAndSellStock2
- * @see M309BestTimeToBuyAndSellStockWithCooldown
- * @see M714BestTimeToBuyAndSellStockWithTransactionFee
- * @see H123BestTimeToBuyAndSellStock3
- * @see H188BestTimeToBuyAndSellStock4
+ * @see E121BestTimeToBuyAndSellStock 买卖股票的最佳时机
+ * @see M122BestTimeToBuyAndSellStock2 买卖股票的最佳时机 II
+ * @see M309BestTimeToBuyAndSellStockWithCooldown 买卖股票的最佳时机含冷冻期
+ * @see M714BestTimeToBuyAndSellStockWithTransactionFee 买卖股票的最佳时机含手续费
+ * @see H123BestTimeToBuyAndSellStock3 买卖股票的最佳时机 III
+ * @see H188BestTimeToBuyAndSellStock4 买卖股票的最佳时机 IV
  *
  *  * @author wangyongzhi
  *  * @date 2023/9/5

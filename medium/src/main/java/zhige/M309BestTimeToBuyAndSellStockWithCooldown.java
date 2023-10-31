@@ -20,12 +20,12 @@ package zhige;
  * dp[i][k][0] = max(dp[i-1][k][0], dp[i-1][k][1] + prices[i])
  * dp[i][k][1] = max(dp[i-1][k][1], dp[i-1][k-1][0] - prices[i])
  *
- * @see E121BestTimeToBuyAndSellStock
- * @see M122BestTimeToBuyAndSellStock2
- * @see M309BestTimeToBuyAndSellStockWithCooldown
- * @see M714BestTimeToBuyAndSellStockWithTransactionFee
- * @see H123BestTimeToBuyAndSellStock3
- * @see H188BestTimeToBuyAndSellStock4
+ * @see E121BestTimeToBuyAndSellStock 买卖股票的最佳时机
+ * @see M122BestTimeToBuyAndSellStock2 买卖股票的最佳时机 II
+ * @see M309BestTimeToBuyAndSellStockWithCooldown 买卖股票的最佳时机含冷冻期
+ * @see M714BestTimeToBuyAndSellStockWithTransactionFee 买卖股票的最佳时机含手续费
+ * @see H123BestTimeToBuyAndSellStock3 买卖股票的最佳时机 III
+ * @see H188BestTimeToBuyAndSellStock4 买卖股票的最佳时机 IV
  */
 public class M309BestTimeToBuyAndSellStockWithCooldown {
 

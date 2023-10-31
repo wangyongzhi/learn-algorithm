@@ -16,13 +16,13 @@ import java.util.List;
  *
  * https://leetcode.cn/problems/permutations-ii/
  *
- * @see M46Permutations
- * @see M47Permutations2
- * @see M74Subsets
- * @see M90Subsets2
- * @see M77Combinations
- * @see M39CombinationSum
- * @see M40CombinationSum2
+ * @see M46Permutations 全排列
+ * @see M47Permutations2 全排列 II
+ * @see M74Subsets 子集
+ * @see M90Subsets2 子集 II
+ * @see M77Combinations 组合
+ * @see M39CombinationSum 组合总和
+ * @see M40CombinationSum2 组合总和 II
  *
  * @author wangyongzhi
  * @date 2023/9/22
