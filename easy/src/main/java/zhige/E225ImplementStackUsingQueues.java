@@ -17,6 +17,9 @@ import java.util.Queue;
  *
  * https://leetcode.cn/problems/implement-stack-using-queues/description/
  *
+ * @see E225ImplementStackUsingQueues
+ * @see E232ImplementQueueUsingStacks
+ *
  * @author wangyongzhi
  * @date 2023/9/23
  */

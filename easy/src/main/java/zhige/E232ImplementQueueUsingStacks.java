@@ -5,6 +5,10 @@ import java.util.Stack;
 /**
  * 232. 用栈实现队列
  * https://leetcode.cn/problems/implement-queue-using-stacks/
+ *
+ * @see E225ImplementStackUsingQueues
+ * @see E232ImplementQueueUsingStacks
+ *
  * @author wangyongzhi
  * @date 2023/7/11
  */

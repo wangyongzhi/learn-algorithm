@@ -6,7 +6,20 @@ package zhige;
  * 给你一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点
  *
  * https://leetcode.cn/problems/remove-nth-node-from-end-of-list/
+ * @see E21MergeTwoSortedLists 合并两个有序链表
+ * @see E83RemoveDuplicatesFromSortedList 删除排序链表中的重复元素
+ * @see E141LinkedListCycle 环形链表
+ * @see E160IntersectionOfTwoLinkedLists 相交链表
+ * @see E206ReverseLinkedList 反转链表
+ * @see E876MiddleOfTheLinkedList 链表的中间结点
+ * @see Eoffer06CongWeiDaoTouDaYinLianBiaoIcof 剑指 Offer 06. 从尾到头打印链表
  *
+ * @see M19RemoveNthNodeFromEndOfList 删除链表的倒数第 N 个结点
+ * @see M61RotateList 旋转链表
+ * @see M86PartitionList 分隔链表
+ * @see M142LinkedListCycle2 环形链表 II
+ *
+ * @see H23MergeKSortedLists 合并K个升序链表
  * @author wangyongzhi
  * @date 2023-02-16
  */
