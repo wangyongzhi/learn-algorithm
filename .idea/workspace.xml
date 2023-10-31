@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71663fa0-a3ae-4a88-8fec-3b62ccd07095" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E415AddStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M236LowestCommonAncestorOfABinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M695MaxAreaOfIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M93RestoreIpAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hard/src/main/java/zhige/H124BinaryTreeMaximumPathSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M200NumberOfIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M200NumberOfIslands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E104MaximumDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E104MaximumDepthOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E111MinimumDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E111MinimumDepthOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E144BinaryTreePreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E144BinaryTreePreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E145BinaryTreePostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E145BinaryTreePostorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E543DiameterOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E543DiameterOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E876MiddleOfTheLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E876MiddleOfTheLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/src/main/java/zhige/E94BinaryTreeInorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/easy/src/main/java/zhige/E94BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M102BinaryTreeLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M102BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M103BinaryTreeZigzagLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M103BinaryTreeZigzagLevelOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/zhige/M236LowestCommonAncestorOfABinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/zhige/M236LowestCommonAncestorOfABinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,10 +291,23 @@
       <recent name="radishdata.top" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.M695MaxAreaOfIsland">
+  <component name="RunManager" selected="Application.H124BinaryTreeMaximumPathSum">
     <configuration name="E415AddStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zhige.E415AddStrings" />
       <module name="easy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zhige.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H124BinaryTreeMaximumPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhige.H124BinaryTreeMaximumPathSum" />
+      <module name="hard" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="zhige.*" />
@@ -338,26 +357,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M74Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhige.M74Subsets" />
-      <module name="medium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zhige.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.H124BinaryTreeMaximumPathSum" />
         <item itemvalue="Application.M695MaxAreaOfIsland" />
         <item itemvalue="Application.M200NumberOfIslands" />
         <item itemvalue="Application.E415AddStrings" />
         <item itemvalue="Application.M103BinaryTreeZigzagLevelOrderTraversal" />
-        <item itemvalue="Application.M74Subsets" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +391,7 @@
       <workItem from="1692327285393" duration="26421000" />
       <workItem from="1694337594579" duration="53791000" />
       <workItem from="1695389522901" duration="12914000" />
-      <workItem from="1698477275089" duration="9843000" />
+      <workItem from="1698477275089" duration="12350000" />
     </task>
     <servers />
   </component>
@@ -545,7 +551,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/medium/src/main/java/zhige/M102BinaryTreeLevelOrderTraversal.java</url>
-          <line>75</line>
+          <line>86</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -560,7 +566,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/medium/src/main/java/zhige/M103BinaryTreeZigzagLevelOrderTraversal.java</url>
-          <line>80</line>
+          <line>91</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>

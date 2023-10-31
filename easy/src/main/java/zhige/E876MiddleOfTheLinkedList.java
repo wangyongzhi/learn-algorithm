@@ -3,6 +3,9 @@ package zhige;
 /**
  * 876. 链表的中间结点
  * https://leetcode.cn/problems/middle-of-the-linked-list/
+ *
+ * @see E876MiddleOfTheLinkedList
+ *
  * @author wangyongzhi
  * @date 2023-02-16
  */
